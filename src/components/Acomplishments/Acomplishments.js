@@ -20,10 +20,11 @@ const Acomplishments = () => (
     <SectionTitle>Personal Acomplishments</SectionTitle>
     <SectionText>
       My main acomplishments so far are educational based from CodeCademy
-      courses to FreeCodeCamp tutorial. Below are some of my most significant acomplishments.{" "}
+      courses to FreeCodeCamp tutorial. Below are some of my most significant
+      acomplishments.{" "}
     </SectionText>
     <SectionText>
-    <div>
+      <div>
         <h4> Completed: Solidity, Blockchain Python Tutorial</h4>
         <iframe
           width="auto"
@@ -37,7 +38,9 @@ const Acomplishments = () => (
       </div>
       <br />
       <div>
-        <h4>Currently Enrolled:  Solidity, Blockchain, FullStack Web3 JS Tutorial</h4>
+        <h4>
+          Currently Enrolled: Solidity, Blockchain, FullStack Web3 JS Tutorial
+        </h4>
         <iframe
           width="auto"
           height="auto"
