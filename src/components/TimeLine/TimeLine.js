@@ -68,11 +68,11 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         I am a blockchain developer from the United States. My passion for
-        blockchain and cryptocurrencys has lend me to chage my carrer and dive
+        blockchain and cryptocurrencys has led me to change my career and dive
         into programing, I feel so lucky to have found my calling. Quickly I
-        realised that programing utilizes my engineering mind set and
-        independent personality. I lookforward to learning more everyday and
-        being part of a community that is and will disrupt all industrys.
+        realized that programing utilizes my engineering mind set and
+        independent personality. I look forward to learning more everyday and
+        being part of a community that is and will evolve all industries.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
