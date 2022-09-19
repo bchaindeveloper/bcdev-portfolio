@@ -78,7 +78,11 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiReact size="item" />
+        <img
+          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F1200px-React-icon.svg.png&f=1&nofb=1"
+          width="200"
+          height="180px"
+        />
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
@@ -88,7 +92,11 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiNodejs size="item" />
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+          width="200"
+          height="180px"
+        />
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
@@ -98,12 +106,16 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="item" />
+        <img
+          src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fclipart-library.com%2Fimage_gallery%2Fn1204014.png&f=1&nofb=1"
+          width="200"
+          height="180px"
+        />
         <ListContainer>
           <ListTitle>Databases</ListTitle>
           <ListParagraph>
             Experience with <br />
-            PostgreSQL MySQL
+            PostgreSQL + MySQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
