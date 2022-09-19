@@ -69,7 +69,7 @@ const Timeline = () => {
       <SectionText>
         I am a blockchain developer from the United States. My passion for
         blockchain and cryptocurrencies has led me to change my career and dive
-        into programming, I feel very lucky to have found my calling. Quickly I
+        into programming. I feel very lucky to have found my calling. Quickly, I
         realized that programming utilizes my engineering mind set and
         independent personality. I look forward to learning more everyday and
         being part of a community that is and will evolve all industries.

@@ -17,7 +17,7 @@ const data = [
 
 const Acomplishments = () => (
   <Section>
-    <SectionTitle>Personal Acomplishments</SectionTitle>
+    <SectionTitle>Acomplishments</SectionTitle>
     <SectionText>
       My main acomplishments so far are educational based from CodeCademy
       courses to FreeCodeCamp tutorial. Below are some of my most significant
