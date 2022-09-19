@@ -20,7 +20,7 @@ const Acomplishments = () => (
     <SectionTitle>Acomplishments</SectionTitle>
     <SectionText>
       My main acomplishments so far are educational based from CodeCademy
-      courses to FreeCodeCamp tutorial. Below are some of my most significant
+      courses to FreeCodeCamp tutorials. Below are some of my most significant
       acomplishments.{" "}
     </SectionText>
     <SectionText>
