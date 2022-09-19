@@ -21,11 +21,13 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: "First introduction to blockchain and cryptocurrency" },
-  { year: 2019, text: "Continued my education on blockchain technology" },
-  { year: 2020, text: "Started casually learning JavaScript on CodeCademy" },
+  { year: 2018, text: "2018- First introduction to blockchain and cryptocurrency" },
+  { year: 2019, text: "2019- Continued my education on blockchain and cryptocurrencies" },
+  { year: 2020, text: "2020- Furthered my education on blockchain and cryptocurrencies" },
   {
     year: 2021,
-    text: "In Febuary I decided to change careers and started studying full time to become a blockchain developer",
+    text: "2021- Started casually learning HTML, CSS and JavaScript on CodeCademy",
   },
+  {year: 2022, text: "2022- In Febuary, I decided to change careers and started studying full time to become a blockchain developer"},
+  {year: 2023, text: "2023- I plan to be employed as a Junior Developer"}
 ];
