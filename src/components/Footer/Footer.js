@@ -20,7 +20,9 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Blockchain Domain</LinkTitle>
-          <LinkItem href="bchaindev.crypto">bchaindev.crypto</LinkItem>
+          <LinkItem href="https://ipfs.io/ipfs/QmPz9FxNTnSE6YbCUiXDPEabCzrNjoH3GzAgNU8dQ6LvVS">
+            bchaindev.crypto
+          </LinkItem>
         </LinkColumn>
       </LinkList>
       <LinkList>
