@@ -19,17 +19,17 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:bcdev3@protonmail.com">
-            bcdev3@protonmail.com
+          <LinkTitle>Blockchain Domain</LinkTitle>
+          <LinkItem href="Qma66wHacSCLgTeDWv3V1XZ2FFt6wneLk86JXaAm59EjsJ">
+            bchaindev.crypto
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Blockchain Domain</LinkTitle>
-          <LinkItem href="https://ipfs.io/ipfs/QmZuhj5Zq58c2N4Hs4HTeMPysikxE9nd2ab6kDpRzriGFV/">
-            bchaindev.crypto
+          <LinkTitle>Email</LinkTitle>
+          <LinkItem href="contact@bchaindev.com">
+            contact@bchaindev.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
