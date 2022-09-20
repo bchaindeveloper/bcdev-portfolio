@@ -25,14 +25,20 @@ const Footer = () => {
           </LinkItem>
         </LinkColumn>
       </LinkList>
+      <LinkList>
+        <LinkColumn>
+          <LinkTitle>Blockchain Domain</LinkTitle>
+          <LinkItem href="bchaindev.crypto">bchaindev.crypto</LinkItem>
+        </LinkColumn>
+      </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>Web3 Architect and Brick Layer</Slogan>
         </CompanyContainer>
         <SocialContainer>
-        <SocialIcons href="https://github.com/bchaindeveloper">
-          <AiFillGithub size="3rem"></AiFillGithub>
-        </SocialIcons>
+          <SocialIcons href="https://github.com/bchaindeveloper">
+            <AiFillGithub size="3rem"></AiFillGithub>
+          </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
