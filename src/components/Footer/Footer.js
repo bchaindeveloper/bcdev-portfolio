@@ -1,7 +1,8 @@
 import React from "react";
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-
+import { LinkIconImg } from "../../styles/GlobalComponents";
 import { SocialIcons } from "../Header/HeaderStyles";
+import { ImageContainer } from "../Technologies/TechnologiesStyles";
 import {
   CompanyContainer,
   FooterWrapper,
@@ -31,6 +32,7 @@ const Footer = () => {
           <LinkItem href="contact@bchaindev.com">
             contact@bchaindev.com
           </LinkItem>
+          <img src="images/flag.png" alt="" right />
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
