@@ -5,7 +5,7 @@ This is my porfolio website using React & Next.js. Here you can see a comprehens
 
 Setup:
 
-run npm i && npm start
+yarn init & yarn install
 
 
 Thank you JavaScript Mastery for helping me create this website:
