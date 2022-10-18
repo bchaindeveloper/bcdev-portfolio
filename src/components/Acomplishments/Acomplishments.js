@@ -24,13 +24,15 @@ const Acomplishments = () => (
       acomplishments.{" "}
     </SectionText>
     <SectionText>
-      <div>
-        <h4> Completed: Solidity, Blockchain Python Tutorial</h4>
+    <div>
+        <h4>
+        Completed: Solidity, Blockchain, FullStack Web3 JS Tutorial
+        </h4>
         <iframe
           width="auto"
           height="auto"
-          src="https://www.youtube.com/embed/M576WGiDBdQ"
-          title="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial"
+          src="https://www.youtube.com/embed/gyMwXuJrbJQ"
+          title="Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
@@ -38,14 +40,12 @@ const Acomplishments = () => (
       </div>
       <br />
       <div>
-        <h4>
-          Currently Enrolled: Solidity, Blockchain, FullStack Web3 JS Tutorial
-        </h4>
+        <h4> Completed: Solidity, Blockchain Python Tutorial</h4>
         <iframe
           width="auto"
           height="auto"
-          src="https://www.youtube.com/embed/gyMwXuJrbJQ"
-          title="Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course"
+          src="https://www.youtube.com/embed/M576WGiDBdQ"
+          title="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
