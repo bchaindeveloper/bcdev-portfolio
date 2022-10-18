@@ -6,7 +6,7 @@ import {
   SectionText,
   SectionTitle,
 } from "../../styles/GlobalComponents";
-import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
+import { Box, Boxes, BoxNum, BoxText } from "./AccomplishmentsStyles";
 
 const data = [
   // { number: 29, text: "Repositories" },
@@ -15,13 +15,13 @@ const data = [
   // { number: 5000, text: "Github Stars" },
 ];
 
-const Acomplishments = () => (
+const Accomplishments = () => (
   <Section>
-    <SectionTitle>Acomplishments</SectionTitle>
+    <SectionTitle>Accomplishments</SectionTitle>
     <SectionText>
-      My main acomplishments so far are educational based from CodeCademy
+      My main accomplishments so far are educational based from CodeCademy
       courses to FreeCodeCamp tutorials. Below are some of my most significant
-      acomplishments.{" "}
+      accomplishments.{" "}
     </SectionText>
     <SectionText>
     <div>
@@ -67,4 +67,4 @@ const Acomplishments = () => (
   </Section>
 );
 
-export default Acomplishments;
+export default Accomplishments;
