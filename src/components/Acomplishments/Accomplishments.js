@@ -56,6 +56,7 @@ const Accomplishments = () => (
         <h4>Currently Enrolled: CodeCademy_ Full-Stack Software Engineer</h4>
       </div>
     </SectionText>
+    <SectionDivider />
     {/* <Boxes>
       {data.map((card, index) => (
         <Box key={index}>

@@ -14,10 +14,15 @@ import {
   SocialContainer,
   SocialIconsContainer,
 } from "./FooterStyles";
+import {
+  SectionTitle,
+  SectionDivider,
+} from "../../styles/GlobalComponents";
 
 const Footer = () => {
   return (
-    <FooterWrapper>
+      <FooterWrapper>
+            <SectionTitle>Contact Me</SectionTitle>
       <LinkList>
         <LinkColumn>
           <LinkTitle>Blockchain Domain</LinkTitle>

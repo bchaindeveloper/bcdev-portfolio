@@ -4,6 +4,7 @@ import {
   Section,
   SectionText,
   SectionTitle,
+  SectionDivider
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
@@ -24,6 +25,7 @@ const Hero = () => (
       </SectionText>
       <Button onClick={() => window.location = 'https//google.com'}>Learn More</Button>
     </LeftSection>
+    <SectionDivider />
   </Section>
 );
 
