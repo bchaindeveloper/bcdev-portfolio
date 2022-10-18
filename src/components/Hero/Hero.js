@@ -23,7 +23,7 @@ const Hero = () => (
         very passionate about the industry and excited to keep learning
         everyday.
       </SectionText>
-      <Button onClick={() => window.location = 'https//google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://github.com/bchaindeveloper'}>Learn More</Button>
     </LeftSection>
     <SectionDivider />
   </Section>
