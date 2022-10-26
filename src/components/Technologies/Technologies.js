@@ -28,7 +28,7 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range of technologies in the web and blockchain
-      developement space.
+      developement space. I specialize in creating smart contracts and front-end applications.
     </SectionText>
     <List>
       <ListItem>
@@ -86,7 +86,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js + Next.js
+            React Frameworks
           </ListParagraph>
         </ListContainer>
       </ListItem>

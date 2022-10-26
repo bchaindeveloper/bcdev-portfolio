@@ -53,18 +53,15 @@ const Accomplishments = () => (
       </div>
       <br />
       <div>
-        <h4>Currently Enrolled: CodeCademy_ Full-Stack Software Engineer</h4>
+        <h4>Completed: CodeCademy, Front-End Engineer</h4>
+        <img
+          src="https://static-assets.codecademy.com/components/curriculum/path/front-end-engineer-career-path/curriculum-card.svg"
+          width="180"
+          height="180"
+        />
       </div>
     </SectionText>
     <SectionDivider />
-    {/* <Boxes>
-      {data.map((card, index) => (
-        <Box key={index}>
-          <BoxNum>{card.number}+</BoxNum>
-          <BoxText>{card.text}</BoxText>
-        </Box>
-      ))}
-    </Boxes> */}
   </Section>
 );
 

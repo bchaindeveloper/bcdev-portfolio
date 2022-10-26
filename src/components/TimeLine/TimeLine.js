@@ -67,10 +67,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a blockchain developer from the United States. My passion for
-        blockchain and cryptocurrencies has led me to change my career and dive
+        I am a developer from the United States. My passion for
+        blockchain and cryptocurrencies has led me to change my career path and dive
         into programming. I feel very lucky to have found my calling. Quickly, I
-        realized that programming utilizes my engineering mind set and
+        realized that programming utilizes my engineering mindset and
         independent personality. I look forward to learning more everyday and
         being part of a community that is and will evolve all industries.
       </SectionText>
