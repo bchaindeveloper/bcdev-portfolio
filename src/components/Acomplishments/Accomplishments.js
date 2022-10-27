@@ -68,7 +68,7 @@ const Accomplishments = () => (
         </div>
     </SectionText>
     <SectionDivider />
-
+    <SectionDivider />
   </Section>
 );
 
