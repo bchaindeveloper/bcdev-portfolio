@@ -25,16 +25,8 @@ const Footer = () => {
             <SectionTitle>Contact Me</SectionTitle>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Blockchain Domain</LinkTitle>
-          <LinkItem href="https://ipfs.io/ipfs/QmPz9FxNTnSE6YbCUiXDPEabCzrNjoH3GzAgNU8dQ6LvVS">
-            bchaindev.crypto
-          </LinkItem>
-        </LinkColumn>
-      </LinkList>
-      <LinkList>
-        <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="contact@bchaindev.com">
+          <LinkItem>
             contact@bchaindev.com
           </LinkItem>
           <img src="images/flag.png" alt="" right />

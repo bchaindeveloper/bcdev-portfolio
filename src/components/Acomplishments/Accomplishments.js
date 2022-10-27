@@ -54,14 +54,21 @@ const Accomplishments = () => (
       <br />
       <div>
         <h4>Completed: CodeCademy, Front-End Engineer</h4>
+        <a href="https://join.codecademy.com/learn/paths/front-end-engineer-career-path/" target="_blank" rel="noreferrer">
         <img
           src="https://static-assets.codecademy.com/components/curriculum/path/front-end-engineer-career-path/curriculum-card.svg"
           width="180"
           height="180"
         />
+        </a>
       </div>
+      <br />
+        <div>
+        Resume Available Upon Request
+        </div>
     </SectionText>
     <SectionDivider />
+
   </Section>
 );
 
