@@ -34,7 +34,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Web3 Architect and Brick Layer</Slogan>
+           <Slogan>Web3 Architect and Brick Layer</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/bchaindeveloper">

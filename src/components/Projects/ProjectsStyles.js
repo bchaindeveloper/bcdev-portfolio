@@ -41,7 +41,7 @@ export const TitleContent = styled.div`
 
 export const HeaderThree = styled.h3`
   font-weight: 500;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   color: #9cc9e3;
   padding: .5rem 0;
   font-size: ${(props) => props.title ? '3rem' : '2rem'};
@@ -72,7 +72,8 @@ export const CardInfo = styled.p`
   color: #e4e6e7;
   font-style: 2rem;
   line-height: 24px;
-  text-align: justify;
+  text-align: center;
+  padding-bottom: 2rem;
   @media ${(props) => props.theme.breakpoints.sm} {
     padding:.3rem
   
@@ -109,4 +110,5 @@ padding: 2rem;
 export const Tag = styled.li`
 color: #d8bfbf;
 font-size: 1.5rem;
+font-weight: bold;
 `
