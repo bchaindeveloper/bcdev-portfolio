@@ -11,6 +11,7 @@ import {
   LinkList,
   LinkTitle,
   Slogan,
+  SmallFoot,
   SocialContainer,
   SocialIconsContainer,
 } from "./FooterStyles";
@@ -29,7 +30,7 @@ const Footer = () => {
           <LinkItem>
             contact@bchaindev.com
           </LinkItem>
-          <img src="images/flag.png" alt="" right />
+          <img src="images/flag.png" alt="Flag"/>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
@@ -42,6 +43,12 @@ const Footer = () => {
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
+      <br />
+      <br />
+      <SectionDivider />
+      <Slogan>
+        Copyright © 2022 - 2023 BChainDev. All rights reserved.
+      </Slogan>
     </FooterWrapper>
   );
 };
