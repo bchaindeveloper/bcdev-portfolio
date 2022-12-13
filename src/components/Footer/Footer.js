@@ -30,7 +30,9 @@ const Footer = () => {
           <LinkItem>
             contact@bchaindev.com
           </LinkItem>
-          <img src="images/flag.png" alt="Flag"/>
+          <img src="images/flag.png" alt="Flag"
+            width="160px"
+            />
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
