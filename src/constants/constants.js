@@ -1,19 +1,21 @@
 export const projects = [
   {
-    title: "Hardhat Lottery",
-    description: "A smart contract built on the Ethereum blockchain that allows wallets to enter funds into the lottery. The contract then randomly picks a winner in a decentralized manner, using Chainlink VRF. The front end is build with Next.JS allowing users to easily interact with the lottery ",
+    title: "Ether Crowdfunding ",
+    description: "A crowdfunding smart contract with a Vite frontend. This applicatoin allows users to create their own campaign as well as fund others. Finding is done by connecting your MetaMask wallet and confiming your transaction",
     image: "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-    tags: ["Solidity", "JavaScript", "Hardhat"],
+    tags: ["Solidity", "JavaScript", "ThirdWeb"],
     visit: "https://web3sire.com/",
+    source: 'https://github.com/bchaindeveloper/web3sire',
     id: 1,
   },
   {
-    title: "Hardhat Fund Me",
+    title: "My Porfolio",
     description:
-      "A smart contract built on the Ethereum blockchain that allows wallets to collectively fund the contract. Then, the owner of the contract has the ability to withdraw the funds to a private wallet.",
+      "I built two seperate porfolio websites utilizing different frameworks. My bchaindev.com website uses Next.JS, Framer Motion, and Tailwind CSS. This porfolio uses more motion and has a simpler sleek design. ",
     image: "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-    tags: ["Solidity", "JavaScript", "Hardhat"],
-    visit: "https://github.com/bchaindeveloper/hardhat-fund-me",
+    tags: ["Next.JS", "JavaScript", "TailwindCSS"],
+    visit: "https://bchaindev.com/",
+    source: 'https://github.com/bchaindeveloper/bcdev-portfolio-v2',
     id: 0,
   },
 ];
