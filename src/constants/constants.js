@@ -11,7 +11,7 @@ export const projects = [
   {
     title: "My Porfolio",
     description:
-      "I built two seperate porfolio websites utilizing different frameworks. My bchaindev.com website uses Next.JS, Framer Motion, and Tailwind CSS. This porfolio uses more motion and has a simpler sleek design. ",
+      "I built two seperate porfolio websites utilizing different styles. My bchaindev.com website uses Next.JS, Framer Motion, and Tailwind CSS. This porfolio uses more motion and has a simpler sleek design. ",
     image: "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
     tags: ["Next.JS", "JavaScript", "TailwindCSS"],
     visit: "https://bchaindev.com/",
