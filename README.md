@@ -8,7 +8,7 @@ Create a portfolio of my web development skills
 
 ## Screenshot:
 
-![Screenshot](public/images/Screenshot.png)
+![Screenshot](public/images/Screenshot.png) 
 
 
 ## Built with:
