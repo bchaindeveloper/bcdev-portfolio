@@ -5,7 +5,6 @@ This is my porfolio website using Next.js. Here you can see a comprehensive look
 
 ## Motivation:
 Create a portfolio of my web development skills
-https://bchaindeveloper.com/
 
 ## Screenshot:
 
